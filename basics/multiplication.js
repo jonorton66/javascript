@@ -5,4 +5,4 @@ function mult(){
   return x*y;
 }
 
-console.log(mult());
+document.write(mult())
