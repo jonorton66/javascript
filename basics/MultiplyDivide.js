@@ -4,7 +4,6 @@ function multiply(){
   var y = document.getElementById('y').value;
 
   document.getElementById("prod").innerHTML = x * y;
-}
 //function to handle the division
 function divide(){
   var x = document.getElementById('x').value;
